@@ -4,6 +4,13 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+coverage = "*"
+factory_boy = "*"
+flake8 = "*"
+pillow = "*"
+pytest = "*"
+pytest-cov = "*"
+pytest-django = "*"
 
 [packages]
 django = "*"
